@@ -8,3 +8,6 @@ Supplementary materials for "Predicting the phase diagram of titanium dioxide wi
 * TiO2-free-energies.tar.gz: a zip file that contains all the neccesary LAMMPS inputs for performing free energy calculations.
 
 * Notebook: a Python notebook for generating descriptors, performing dimensionality reduction, and clustering. 
+
+
+arXiv url: https://arxiv.org/abs/1909.08934
